@@ -13,7 +13,7 @@ You can install or upgrade package with:
 $ pip install git+https://github.com/Spec122/python-sms-activate-ru/
 ```
 ### Example
-```python
+```
 from smsactivateru import Sms, SmsService, GetNumber
 
 wrapper = Sms('API KEY')
@@ -41,7 +41,7 @@ More examples located in /example/ dir
 $ pip install git+https://github.com/Spec122/python-sms-activate-ru/
 ```
 ### Простой пример
-```python
+```
 from smsactivateru import Sms, SmsService, GetNumber
 
 wrapper = Sms('API KEY')
