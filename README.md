@@ -9,18 +9,8 @@ Wrapper for automatic reception of SMS-messages by sms-activate.ru
 
 ### Installation
 You can install or upgrade package with:
-```
-$ pip install smsactivateru --upgrade
-```
-Or you can install from source with:
-```
-$ git clone https://github.com/tezmen/python-sms-activate-ru
-$ cd python-sms-activate-ru
-$ python setup.py install
-```
-...or install from source buth with pip
-```
-$ pip install git+https://github.com/tezmen/python-sms-activate-ru
+
+$ pip install git+https://github.com/Spec122/python-sms-activate-ru/
 ```
 ### Example
 ```python
@@ -48,17 +38,7 @@ More examples located in /example/ dir
 ### Установка
 Установка с помощью стандартного пакетного менеджера pip:
 ```
-$ pip install smsactivateru --upgrade
-```
-Либо установка напрямую из репозитория, с ручной сборкой
-```
-$ git clone https://github.com/tezmen/python-sms-activate-ru
-$ cd python-sms-activate-ru
-$ python setup.py install
-```
-...либо установка через pip но из репозитория, минуя сервера pypi
-```
-$ pip install git+https://github.com/tezmen/python-sms-activate-ru
+$ pip install git+https://github.com/Spec122/python-sms-activate-ru/
 ```
 ### Простой пример
 ```python
