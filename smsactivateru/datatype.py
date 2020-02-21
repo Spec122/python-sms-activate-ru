@@ -11,8 +11,8 @@ class SmsTypes:
 		MM = '5'  # Мьянма (Myanmar)
 		ID = '6'  # Индонезия (Indonesia)
 		MY = '7'  # Малайзия (Malaysia)
-		# KE = '8'  # Кения (Kenya) – temp disable
-		# TZ = '9'  # Танзания (Tanzania) – temp disable
+		KE = '8'  # Кения (Kenya) – temp disable
+		TZ = '9'  # Танзания (Tanzania) – temp disable
 		VN = '10'  # Вьетнам (Vietnam)
 		KG = '11'  # Кыргызстан (Kyrgyzstan)
 		US = '12'  # США (USA)
